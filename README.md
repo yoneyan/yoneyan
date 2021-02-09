@@ -13,10 +13,8 @@ dsbd-web-admin https://github.com/homenoc/dsbd-web-admin
 #### ポケベルっぽいもの作る
 https://xn--rck3dk2d.xn--l8j2c0eyu.com/
 
-など
-
 ## SNS
-Twitter: https://twitter.com/yoneyan_ja
+Twitter: https://twitter.com/yoneyan_ja  
 Facebook: https://www.facebook.com/yoneyan.ja
 
 <!--
