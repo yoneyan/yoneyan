@@ -20,8 +20,8 @@ https://www.youtube.com/watch?v=uMwR1F_gHRU
 https://xn--rck3dk2d.xn--l8j2c0eyu.com/
 
 ## 所属団体🔭
-HomeNOC Operators' Group(AS59105 BGP運用) https://www.homenoc.ad.jp 
-doornoc(胡散臭いBGP運用をしようとしている団体) https://doornoc.net
+- HomeNOC Operators' Group(AS59105) https://www.homenoc.ad.jp 
+- doornoc(AS63791) https://doornoc.net
 
 ## Blog
 https://yoneyan.blog
