@@ -8,8 +8,9 @@ dsbd-backend https://github.com/homenoc/dsbd-backend
 dsbd-web https://github.com/homenoc/dsbd-web    
 dsbd-web-admin https://github.com/homenoc/dsbd-web-admin    
 
-### JPNIC
-JPNIC Webトランザクションツール https://github.com/homenoc/jpnic
+### Network関連
+JPNIC Webトランザクションツール https://github.com/homenoc/jpnic_admin
+Config収集ツール(config-collector) https://github.com/doornoc/config-collector
 
 ## 制作物⚡
 
